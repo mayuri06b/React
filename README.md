@@ -54,3 +54,10 @@ can create custom build process
 Basic React Project -> setup.next.js -> deleted , logo.svg , app.test.js , app.css 
 App.js , index.js  
 
+-------------------------------------
+
+Notes : 
+Scripts in Package.json 
+- start 
+- build -> production time -> converted in Js 
+vite is just an Bundler -> wont have node modules -> npm i / install 
