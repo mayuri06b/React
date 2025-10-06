@@ -1,5 +1,6 @@
 import './App.css'
 import { useState } from 'react';
+// UI updation react karti hai variable ke updation pr 
 
 function App() {
   // change ko dom ke andar propagte karne ke liye 
